@@ -1,0 +1,16 @@
+.card {
+	margin-top: 12px;
+}
+
+.nav p {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.card-title {
+	font-family: 'Open Sans', sans-serif;
+}
+
+* {
+	/* font-family: 'Open Sans', sans-serif; */
+	font-family: 'Roboto', sans-serif;
+}
